@@ -1,0 +1,15 @@
+streamlit
+yt-dlp
+openai-whisper
+deep-translator
+gtts
+pydub
+plotly
+pandas
+requests
+numpy
+matplotlib
+seaborn
+altair
+streamlit-option-menu
+ffmpeg-python
